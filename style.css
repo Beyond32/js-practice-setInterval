@@ -1,0 +1,13 @@
+#block {
+  display: none;
+  text-align: center;
+}
+
+#progress {
+  display: block;
+  margin: 50px auto 10px;
+}
+#loading {
+  display: none;
+  text-align: center;
+}
